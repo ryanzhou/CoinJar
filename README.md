@@ -1,4 +1,4 @@
-# coinjar [![Build Status](https://secure.travis-ci.org/jimlyndon/CoinJarNPM.png?branch=master)](http://travis-ci.org/jimlyndon/CoinJarNPM)
+# coinjar [![Build Status](https://secure.travis-ci.org/jimlyndon/CoinJarNPM.png?branch=master)](http://travis-ci.org/jimlyndon/CoinJar)
 
 Coinjar API (business and personal) client for Node.js
 
