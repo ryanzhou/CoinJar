@@ -1,0 +1,31 @@
+{
+  "name": "coinjar",
+  "version": "0.0.0",
+  "main": "lib/coinjar.js",
+  "description": "Coinjar API (business and personal) client for node.js",
+  "keywords": ["coinjar", "bitcoin", "client", "api", "javascript", "npm", "library", "node"],
+  "homepage": "https://coinjar.io",
+  "bugs": "https://github.com/jimlyndon/coinjar/issues",
+  "author": {
+    "name": "Jim Lyndon",
+    "email": "github@jimlyndon.com",
+    "url": "jimlyndon.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimlyndon/coinjar"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "superagent": "0.15.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}

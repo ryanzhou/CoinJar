@@ -1,0 +1,27 @@
+{
+  "globals": {
+    "describe": false,
+    "require": true,
+    "inject": true,
+    "module": true,
+    "it": false,
+    "console": false,
+    "jasmine": true,
+    "expect": false,
+    "beforeEach": false,
+    "spyOn":false
+  },
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true,
+  "laxcomma": true
+}
