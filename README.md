@@ -71,7 +71,7 @@ using this CoinJar NPM library.
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. 
-Add unit tests to the existenting integration test suite, for any new/changes to the code.
+Add unit tests to the existing integration test suite, for any new/changes to the code.
 Also lint and test your code using [Grunt](http://gruntjs.com/):
 
 
