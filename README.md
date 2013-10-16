@@ -72,7 +72,30 @@ that is already using this CoinJar NPM library, to get you started quickly.
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. 
 Add unit tests to the existing integration test suite, for any new/changes to the code.
-Also lint and test your code using [Grunt](http://gruntjs.com/):
+Also lint and test your code using [Grunt](http://gruntjs.com/).
+
+For debugging, you should install node inspector. Open a new terminal window/tab and run:
+
+    $ npm install -g node-inspector
+
+Next, run node-inspector:
+
+    $ node-inspector &
+    
+You should get the output:
+
+    Visit http://127.0.0.1:8080/debug?port=5858 to start debugging.
+
+Open another terminal into the working directory and execute Node with the debug flag
+
+    $ node --debug-brk `which nodeunit` test/** 
+
+You should get the output:
+
+    debugger listening on port 5858
+
+You can open Chrome browser at `http://127.0.0.1:8080/debug?port=5858` to use it's development 
+tools to debug your application.
 
 
 ## Release History
