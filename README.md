@@ -66,8 +66,8 @@ In typical Node.js fashion, all the API's take callback that take (error, respon
 The easiest way to get started is to take a look at the 
 [integration test suite](https://github.com/jimlyndon/CoinJar/tree/master/test) included in this NPM library.
 
-You can also [download a test Node.js application](https://github.com/jimlyndon/CoinJarExampleNodeJS)
-using this CoinJar NPM library.
+Quick Start - You can also [download a test Node.js application](https://github.com/jimlyndon/CoinJarExampleNodeJS)
+that is already using this CoinJar NPM library, to get you started quickly.
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. 
