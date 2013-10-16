@@ -1,7 +1,7 @@
 # CoinJar NPM 
 
  [![Build Status](https://secure.travis-ci.org/jimlyndon/CoinJar.png?branch=master)](http://travis-ci.org/jimlyndon/CoinJar)
- [![Dependency Status](https://gemnasium.com/jimlyndon/CoinJar)](https://gemnasium.com/jimlyndon/CoinJar)
+ [![Dependency Status](https://gemnasium.com/jimlyndon/CoinJar.png)](https://gemnasium.com/jimlyndon/CoinJar)
  [![NPM version](https://badge.fury.io/js/coinjar.png)](http://badge.fury.io/js/coinjar)
 
 Coinjar API (business and personal) client for Node.js
@@ -76,7 +76,8 @@ Also lint and test your code using [Grunt](http://gruntjs.com/):
 
 
 ## Release History
-0.0.0 intial, white walls
+0.0.0 Intial commit, white walls
+
 0.0.1 Documentation
 
 ## License
