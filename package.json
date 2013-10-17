@@ -1,6 +1,6 @@
 {
   "name": "coinjar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/coinjar.js",
   "description": "Coinjar API (business and personal) client for node.js",
   "keywords": ["coinjar", "bitcoin", "client", "api", "javascript", "npm", "library", "node"],

@@ -97,11 +97,5 @@ You should get the output:
 You can open Chrome browser at `http://127.0.0.1:8080/debug?port=5858` to use it's development 
 tools to debug your application.
 
-
-## Release History
-0.0.0 Intial commit, white walls
-
-0.0.1 Documentation
-
 ## License
 Copyright (c) 2013 Jim Lyndon. Licensed under the MIT license.
